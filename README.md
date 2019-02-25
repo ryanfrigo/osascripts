@@ -1,1 +1,1 @@
-# osascripts
+# scripts for macs
